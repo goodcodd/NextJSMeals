@@ -1,3 +1,6 @@
+![image](https://github.com/goodcodd/NextJSMeals/assets/109170684/15c259eb-1a5d-4ce9-8141-adb21f1048fb)
+
+
 - Understanding File-based Routing & React Server Components
 - Navigating Between Pages
 - Working with Pages & Layouts
